@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["HongliYu"]
   spec.email         = ["yhlssdone@gmail.com"]
 
-  spec.summary       = %q{clean all private gist}
-  spec.description   = %q{clean all private gist}
+  spec.summary       = %q{clean gist private, public, or both of them, with two-factor authentication or basic login}
+  spec.description   = %q{clean gist private, public, or both of them, with two-factor authentication or basic login}
   spec.homepage      = "https://github.com/HongliYu/gist_cleaner"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
